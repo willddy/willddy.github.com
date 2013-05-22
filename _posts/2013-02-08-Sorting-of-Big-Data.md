@@ -1,13 +1,7 @@
 ---
 layout: post
-uri: /posts/113
-permalink: /posts/113/index.html
 title: Sorting of Big Data
-category: bigdata
-tag: bigdata
-description: 
-disqus: true 
-lang: en
+tag: hadoop
 ---
 If you want to sort big data set by keys, there are following ways to do that global sort (sorting on single keys)
 
