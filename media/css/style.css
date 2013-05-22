@@ -1,10 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Overlock);
 @import url(http://fonts.googleapis.com/css?family=Coda);
 /*------------------------------------
-* sext-v
 *
-* @author linghua.zhang@me.com
-* @link http://lhzhang.com/
+* @author willddy@hotmail.com
+* @link http://willddy.github.com
 * @update 2013-04-02
 *
 * |/ | (~ (~
@@ -12,7 +11,7 @@
 * --------------------------------- */
 div#divBanner {
 	position: absolute;
-	left: 37%;
+	left: 35%;
     	top: 20px;
 	width: 56%;
     	padding: 32px;
@@ -84,7 +83,7 @@ nav {
   text-align: right;
   position: absolute;
   top: 14em;
-  right: 1em; }
+  left: 45%; }
   nav span {
     display: block;
     margin: 1em 0; }
@@ -98,7 +97,7 @@ nav {
 
 #content {
 	position: absolute;
-	left: 40%;
+	left: 35%;
   width: 750px;
   margin: 0 auto;
   font-size: 1.1em;
