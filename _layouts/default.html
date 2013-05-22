@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Will" />
+
+
+
+    {% if page.title %}
+    <title>{{ page.title }}</title>
+    {% else %}
+    <title>{{ site.name }}</title>
+    {% endif %}
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="/atom.xml" rel="alternate" title="{{ site.name }}" type="application/atom+xml" />
+    <link rel="stylesheet" href="/media/css/style.css">
+    <link rel="stylesheet" href="/media/css/github.css">
+    <link rel="stylesheet" href="/media/css/fontawesome.css">
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/media/css/fontawesome-ie7.css">
+    <![endif]-->
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet">
+    <script type="text/javascript" src="/media/js/highlight.pack.js"></script>
+    <script type="text/javascript">
+      hljs.initHighlightingOnLoad();
+    </script>
+  </head>
+  <body>
+      <div id="main" role="main">
+        <header>
+
+	<div id="header">
+            <h1><a title="{{ site.name }}" class="" href="/"> </a></h1><br><br><br>
+		<div id="divBanner">
+    		<span>
+		<i class="icon-star-empty icon-large"></i>Blog By Will<br/><br/>
+		</span>
+    		<span style="font-size: 52px">
+        	「Big Data World」
+    		</span><br/><br/>
+    		<span style="font-size: 25px">
+        	Explore the Value of Big Data <br/>
+    		</span>
+    		大数据世界<i class="icon-star-empty icon-large"></i><br/>
+		</div>
+	    <h1><a title="{{ site.name }}" class="" href="/"> </a></h1>
+          </div>
+          <nav>
+		<span><a title="Home" class="icon-home icon-2x" href="/index.html"></a></span>            
+		<span><a title="Archive" class="icon-list-ul icon-large" href="/archive.html"></a></span>
+            	<span><a title="Tags" class="icon-tags icon-large" href="/tags.html"></a></span>
+            	<span><a title="Books" class="icon-book icon-large" href="/readings.html"></a></span>
+            	<span><a title="Links" class="icon-link icon-large" href="/links.html"></a></span>
+            	<span><a title="Me" class="icon-user icon-large" href="/about.html"></a></span>
+            	<span><a title="Subscribe" class="icon-rss icon-large" href="/atom.xml"></a></span>
+          </nav>
+        </header>
+	
+        <div id="content">
+        {{ content }}
+        </div>
+
+        <footer>
+          <div>
+            Powered by <a href="http://jekyllrb.com/" target="_blank"><b>Jekyll</b></a> | <a href="http://twitter.github.io/bootstrap/" title="sext v">Bootstrap</a>
+          </div>
+        </footer>
+      </div> <!-- main -->
+  </body>
+</html>
