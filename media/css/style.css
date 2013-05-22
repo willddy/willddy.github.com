@@ -11,7 +11,7 @@
 * --------------------------------- */
 div#divBanner {
 	position: absolute;
-	left: 35%;
+	right: 35%;
     	top: 20px;
 	width: 56%;
     	padding: 32px;
@@ -97,7 +97,7 @@ nav {
 
 #content {
 	position: absolute;
-	left: 35%;
+	right: 35%;
   width: 750px;
   margin: 0 auto;
   font-size: 1.1em;
