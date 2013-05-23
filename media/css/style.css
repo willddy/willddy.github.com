@@ -11,7 +11,7 @@
 * --------------------------------- */
 div#divBanner {
 	position: absolute;
-	left: 35%;
+	right: 5em;
     	top: 20px;
 	width: 56%;
     	padding: 32px;
@@ -83,7 +83,7 @@ nav {
   text-align: right;
   position: absolute;
   top: 1em;
-  right: 1em; }
+  right: 2em; }
   nav span {
     display: block;
     margin: 1em 0; }
@@ -96,8 +96,8 @@ nav {
     color: #333333; }
 
 #content {
-	position: absolute;
-	left: 35%;
+  position: absolute;
+  right: 5em;
   width: 750px;
   margin: 0 auto;
   font-size: 1.1em;

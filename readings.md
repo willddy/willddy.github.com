@@ -11,7 +11,7 @@ layout: page
 * Level Mid. 
 * Level Adv. 
 
-This is a really a good Hadoop book to recommend. I have read both 2nd and 3rd edition. The latest 3rd edition is based on the Hadoop 1.0. It covers almost everything on the Hadoop including Yarn. The author also has <a href="https://github.com/tomwhite/hadoop-book/" target="_blank"> github site </a> to share the code. 
+This is a really a good Hadoop book to recommend. I have read both 2nd and 3rd edition. The latest 3rd edition is based on the Hadoop 1.0. It covers almost everything on the Hadoop including Yarn. The author also has <a href="https://github.com/tomwhite/hadoop-book/" target="_blank"> github site </a> to share the code. Here is my [book note](https://www.evernote.com/shard/s36/sh/79d59799-3254-43a8-a316-e38e4760e3c8/a721c419a7cab4dd2592de6bc16203d4) 
 ___
 <a href="http://www.amazon.com/Hadoop-Practice-Alex-Holmes/dp/1617290238/ref=sr_1_1?s=books&ie=UTF8&qid=1368753609&sr=1-1&keywords=hadoop+in+practice" target="_blank"><img src="/images/hadoopinpractice.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 
@@ -78,12 +78,29 @@ ___
 
 This is a tiny book about pig, around 200 pages. It covers everything. The extension of UDF parts lacks of enough examples. Also, these parts are a little bit hard for reading. I have also read the translation one, which is so so. You cannot find more examples of Pig than anywhere else. However, I expect there is another book I believe that could/should cover more practical examples and hands on scripts.
 ___
+<a href="http://www.amazon.cn/Hadoop%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95-%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90MapReduce%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86-%E8%91%A3%E8%A5%BF%E6%88%90/dp/B00CJ367IU/ref=sr_1_1?ie=UTF8&qid=1369267204&sr=8-1&keywords=hadoop%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95+%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90mapreduce%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86" target="_blank"><img src="/images/hadoopmapreduceinternals.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###Hadoop Mapreduce Internals
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
+#####Big Data Area
+* Level Mid.  
+* Level Adv.   
+
+In reading. This book tells the how map and reduce implemented in source code level.
+___
+<a href="http://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544002695/ref=sr_1_1?ie=UTF8&qid=1367466814&sr=8-1&keywords=Big+Date%3AA+Revolution+That+Will+Transform+How+We+Live%2C+Work%2C+and+Think" target="_blank"><img src="/images/bigdataera.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###Big Data: A Revolution That Will Transform How We Live, Work, and Think
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
+#####Big Data Area
+* Level Ent. 
+
+In reading. It is one of few books of big data using real example to tell what's revolution brought by big data. The signatures of big data it describes are really impressive. This book motives readers to explore the value behind of big data. It is a good book to encourage people to explore the big data area.
+___
 <a href="http://rockablepress.com/books/getting-good-with-git" target="_blank"><img src="/images/gettinggoodwithgit.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###Geting Good with GIT
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i><i class="icon-star-empty"></i>
 #####Coding Area
 * Level Ent. 
 
-This is a tiny book for Git. It is good because it is short and simple.
+This is a tiny book for Git. It is good because it is short and simple. It is particular good for people who want to learn Git from Zero. The is another link about GitHub, which is also recommended reading after this. Here is my [my book note](https://www.evernote.com/shard/s36/sh/f2cf70fa-6f1c-483b-9eab-23e52462f09e/4a50f05a3852edeb5a5fca7d03ed8d87)
 ___
  
