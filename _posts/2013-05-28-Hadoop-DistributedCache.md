@@ -51,7 +51,7 @@ For example:
 Use the Symlink
 1.Tell hadoop to use Symlink    
    
-    conf.set("mapred.create.symlink", "yes"); // 是yes，不是true
+    conf.set("mapred.create.symlink", "yes"); // note, it is "yes"，not "true"
 Or better (compatible for late version)
     
     DistributedCache.createSymlink(Configuration)
