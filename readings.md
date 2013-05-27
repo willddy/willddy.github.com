@@ -93,7 +93,7 @@ ___
 #####Big Data Area
 * Level Ent. 
 
-In reading. It is one of few books of big data using real example to tell what's revolution brought by big data. The signatures of big data it describes are really impressive. This book motives readers to explore the value behind of big data. It is a good book to encourage people to explore the big data area.
+It is one of few books of big data using real example to tell what's revolution brought by big data. The signatures of big data it describes are really impressive. This book motives readers to explore the value behind of big data. It is a good book to encourage people to explore the big data area.
 ___
 <a href="http://rockablepress.com/books/getting-good-with-git" target="_blank"><img src="/images/gettinggoodwithgit.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###Geting Good with GIT
