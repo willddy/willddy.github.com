@@ -1,13 +1,9 @@
 ---
 layout: post
-uri: /posts/122
-permalink: /posts/122/index.html
 title: Hadoop Balancer
 category: bigdata
+guid: urn:uuid:0ccb922f-1ea4-4916-ae5e-20130503
 tag: hadoop
-description: 
-disqus: true 
-lang: en
 ---
 Whenever the nodes are added to the cluster or lots of data are delete, we need to run Hadoop balancer to balance the data in the datenodes. Or else, the over utilized data nodes will become the bottleneck of the cluster in terms of performance.
 

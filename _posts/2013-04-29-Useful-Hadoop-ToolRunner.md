@@ -11,7 +11,8 @@ Developers are pissed off with following things quite often:
 
 All of these can be resolved using ToolRunner (it runs tools) by `implements Tool` so that you code could take input of configuration from args. Actually ToolRunner hide GenericOptionsParser, which parce the command line input parameters, in its run (this is not static method) method.
 
-    bin/hadoop jar MyJob.jar com.xxx.MyJobDriver -Dmapred.reduce.tasks=5 \
+    bin/hadoop jar MyJob.jar com.xxx.MyJobDriver 
+    -D mapred.reduce.tasks=5 \
     -files ./dict.conf  \
     -libjars lib/commons-beanutils-1.8.3.jar,lib/commons-digester-2.1.jar
 

@@ -3,6 +3,7 @@ layout: post
 guid: urn:uuid:0ccb922f-1ea4-4916-ae5e-20130513
 title: A Tiny Scrum Overview
 category: scrum
+guid: urn:uuid:0ccb922f-1ea4-4916-ae5e-20130513
 tag: 
  - scrum
 ---

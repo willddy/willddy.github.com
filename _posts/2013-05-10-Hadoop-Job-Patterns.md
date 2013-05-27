@@ -2,6 +2,7 @@
 layout: post
 title: Hadoop Job Patterns
 category: bigdata
+guid: urn:uuid:0ccb922f-1ea4-4916-ae5e-20130510
 tag: hadoop
 ---
 <img src="http://imgur.com/OWTGVjD.jpg" width="200" height="200" alt="avatar" align ="right"  />

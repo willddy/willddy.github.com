@@ -1,13 +1,9 @@
 ---
 layout: post
-uri: /posts/121
-permalink: /posts/121/index.html
 title: Adding or Removing Hadoop Nodes
 category: bigdata
+guid: urn:uuid:0ccb922f-1ea4-4916-ae5e-20130502
 tag: hadoop
-description: 
-disqus: true 
-lang: en
 ---
 I am here to give step completely. I saw some version of step before, but many of them either are not complete or confused or wrong, e.g. someone even stop the cluster to do that!
 #### Adding Nodes 

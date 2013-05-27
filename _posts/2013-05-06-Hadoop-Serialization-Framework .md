@@ -1,13 +1,9 @@
 ---
 layout: post
-uri: /posts/123
-permalink: /posts/123/index.html
 title: Hadoop Serialization Framework 
 category: bigdata
+guid: urn:uuid:0ccb922f-1ea4-4916-ae5e-20130506
 tag: hadoop
-description: 
-disqus: true 
-lang: en
 ---
 Below are some mentioned in Hadoop In Practice and MapReduce Cookbooks
 

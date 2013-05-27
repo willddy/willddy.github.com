@@ -2,6 +2,7 @@
 layout: post
 title: GIT Tips At Weekend - Friday
 category: git
+guid: urn:uuid:0ccb922f-1ea4-4916-ae5e-20130517
 tag: git
 
 ---

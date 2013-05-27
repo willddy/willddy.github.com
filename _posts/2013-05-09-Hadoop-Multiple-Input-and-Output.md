@@ -1,13 +1,9 @@
 ---
 layout: post
-uri: /posts/101
-permalink: /posts/101/index.html
 title: Hadoop Multiple Input and Output
 category: bigdata
+guid: urn:uuid:0ccb922f-1ea4-4916-ae5e-20130509
 tag: hadoop
-description: 
-disqus: true 
-lang: en
 ---
 The following is an example of using multiple inputs (org.apache.hadoop.mapreduce.lib.input.MultipleInputs) with different input formats and different mapper implementations.
 

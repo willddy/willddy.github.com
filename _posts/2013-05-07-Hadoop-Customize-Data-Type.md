@@ -1,14 +1,10 @@
 ---
 layout: post
-uri: /posts/103
-permalink: /posts/103/index.html
 title: Hadoop Customize Data Type
 category: bigdata
+guid: urn:uuid:0ccb922f-1ea4-4916-ae5e-20130507
 tags:
     - hadoop
-description: hadoop
-disqus: true
-lang: en
 ---
 #### Customize Data Type - As Value
 
