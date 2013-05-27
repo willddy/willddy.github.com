@@ -1,13 +1,7 @@
 ---
 layout: post
-uri: /posts/119
-permalink: /posts/119/index.html
 title: Useful Hadoop ToolRunner
-category: bigdata
 tag: hadoop
-description: 
-disqus: true 
-lang: en
 ---
 Developers are pissed off with following things quite often:
 
@@ -15,7 +9,7 @@ Developers are pissed off with following things quite often:
 * You need to write java code to add files in DistributedCache
 * When you depend on 3rd party jar or files, you hold code them in java code
 
-All of these can be resolved by using ToolRunner (it runs tools) so that you code could take input of configuration from args. Actually ToolRunner hide GenericOptionsParser, which parce the command line input parameters, in its run (this is not static method) method.
+All of these can be resolved using ToolRunner (it runs tools) by `implements Tool` so that you code could take input of configuration from args. Actually ToolRunner hide GenericOptionsParser, which parce the command line input parameters, in its run (this is not static method) method.
 
     bin/hadoop jar MyJob.jar com.xxx.MyJobDriver -Dmapred.reduce.tasks=5 \
     -files ./dict.conf  \
@@ -24,11 +18,13 @@ All of these can be resolved by using ToolRunner (it runs tools) so that you cod
 The ToolRunner class will automatically handle the following generic Hadoop arguments:
 
 * -conf: Takes a path to a parameter configuration file.
-* -D: Used to specify Hadoop key/value properties which will be added to the job configuration. There is no space after -D to make difference from hadoop streaming -D option
 * -fs: Used to specify the host port of the NameNode
 * -jt: Used to specify the host port of the JobTracker
+* -D: Used to specify Hadoop key/value properties which will be added to the job configuration. 
 
-Most of time we also extends Configed class for the purpose of accessing `getConf()`, `getClass()` local method so that you do not need to create configuration objects by hard coding class name.
+__Note__: There is space after -D to make difference from JVM `-Dproperty = value` system properties, which comes form `java.lang.System`.
+
+Most of time we also `extends Configured` class for the purpose of accessing `getConf()`, `getClass()` local method so that you do not need to create configuration objects by hard coding class name.
 
     public class WordCount extends Configured implements Tool {
 
