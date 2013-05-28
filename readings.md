@@ -101,6 +101,6 @@ ___
 #####Coding Area
 * Level Ent. 
 
-This is a tiny book for Git. It is good because it is short and simple. It is particular good for people who want to learn Git from Zero. The is another link about GitHub, which is also recommended reading after this. Here is my [my book note](https://www.evernote.com/shard/s36/sh/f2cf70fa-6f1c-483b-9eab-23e52462f09e/4a50f05a3852edeb5a5fca7d03ed8d87)
+This is a tiny book for Git. It is good because it is short and simple. It covers basic usage of Git and a little about GitHub. It is particular good for people who want to learn Git from Zero. The is another link about GitHub call [GotGitHub](http://www.worldhello.net/gotgithub/), which is also recommended reading after this. The only pity is that it does not cover any advanced topics. Here is my [my book note](https://www.evernote.com/shard/s36/sh/f2cf70fa-6f1c-483b-9eab-23e52462f09e/4a50f05a3852edeb5a5fca7d03ed8d87)
 ___
  
