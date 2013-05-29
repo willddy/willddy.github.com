@@ -2,14 +2,14 @@
 layout: post
 uri: /posts/118
 permalink: /posts/118/index.html
-title: Split and Block of Hadoop
+title: Hadoop Split and Block
 category: bigdata
 tag: hadoop
 description: 
 disqus: true 
 lang: en
 ---
-<p>HDFS was designed to hold and manage large amounts of data; a default block size is 64 MB. That means if a 128-MB text file was put in to HDFS, HDFS would split the file into two blocks (128 MB/64 MB) and distribute the two chunks to the data nodes in the cluster. The main reason to setting proper block size is to balance the load of each map and reduce throughput so that the overall job takes better time to finish. Because the block size id the boundary of split, so it is a very important setting. The best way to decide the proper size is to  understand your data profile (average size, etc) of your business.</p>
+<p>HDFS was designed to hold and manage large amounts of data; a default block size is 64 MB. That means if a 128-MB text file was put in to HDFS, HDFS would split the file into two blocks (128 MB/64 MB) and distribute the two chunks to the data nodes in the cluster. The main reason to setting proper block size is to balance the load of each map and reduce throughput so that the overall job takes better time to finish. Because the block size is the boundary of split, so it is a very important setting. The best way to decide the proper size is to  understand your data profile (average size, etc) of your business.</p>
 <p>To set up the block size, you need to modify/override setting in hdfs-size.xml:</p>
 <pre>&lt;property&gt;
 &lt;name&gt;dfs.block.size&lt;name&gt;
