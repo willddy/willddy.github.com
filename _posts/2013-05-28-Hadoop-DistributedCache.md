@@ -26,7 +26,7 @@ Or better (compatible for late version)
     DistributedCache. addCacheFile(URI, Configuration)
     DistributedCache.addArchiveToClassPath(Path, Configuration, FileSystem)
 
-__Note:__ Above codes must put before job initializaion because the the cloned Configuration will pass into JobContext during job initialization. Or else, it does not work at all.
+__Note:__ Above codes must put before job initializaion because the cloned Configuration will pass into JobContext during job initialization. Or else, it does not work at all.
 
 After MapReduce 0.21, you need to get cached data from the setup method in map/reduce tasks
 
