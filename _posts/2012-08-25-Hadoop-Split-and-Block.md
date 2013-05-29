@@ -16,14 +16,13 @@ lang: en
 &lt;value&gt;134217728&lt;value&gt;
 &lt;description&gt;Block size&lt;description&gt;
 &lt;property&gt;</pre>
-<p>Note, changing this setting will not affect the block size of any files currently in HDFS. It will only affect the block size of files placed into HDFS
-after this setting has taken effect. That means you need to reload the data or put new data using "hadoop fs -put" to make setting effective on the data.</p>
+<p>Note, changing this setting will not affect the block size of any files currently in HDFS. It will only affect the block size of files placed into HDFS after this setting has taken effect. That means you need to reload the data or put new data using "hadoop fs -put" to make setting effective on the data.</p>
 <p>Below is summary between split and block</p>
 <ul>
 <li>One split must contain n times of blocks where n is integer and big than 0</li>
 <li>A split will not contain blocks from two files or split will not cross file boundaries</li>
 <li>One split is mapping to multiple blocks</li>
-<li>The number of working map tasks depends on the number of splits</li>
+<li>The number of working map tasks (Mapper) are equal to the number of splits</li>
 </ul>
 <p>By the way, if something is not split-able, we can consider warrap them into Avro or Sequencefile for instead</p>
 
