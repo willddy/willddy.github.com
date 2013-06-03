@@ -20,7 +20,7 @@ You can use enumiate classs to create counters
 
     Context context...  
     //Pass groupName and counterName dynamically. 
-    //Hadoop will create it if there is nosuch counter.  
+    //__Hadoop will create it if there is no such counter.__  
     context.getCounter(String groupName,String counterName)  
 
 ##### 2.1 Operate Counter
