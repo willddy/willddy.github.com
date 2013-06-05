@@ -82,10 +82,9 @@ ___
 ###Hadoop Mapreduce Internals
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
 #####Big Data Area
-* Level Mid.  
 * Level Adv.   
 
-In reading. This book tells the how map and reduce implemented in source code level.
+This book tells how map and reduce are implemented in source code level. It covers lots of detail that other book never mentioned. It can help reading the source code. This is kind of book helping uderstanding instead of practicing something. There are less code samples with book. The picture and comparing form in this book are really good for reading and undersanding.
 ___
 <a href="http://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544002695/ref=sr_1_1?ie=UTF8&qid=1367466814&sr=8-1&keywords=Big+Date%3AA+Revolution+That+Will+Transform+How+We+Live%2C+Work%2C+and+Think" target="_blank"><img src="/images/bigdataera.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###Big Data: A Revolution That Will Transform How We Live, Work, and Think
