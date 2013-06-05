@@ -81,7 +81,7 @@ nav {
   margin: 0 auto;
   padding: 1px 0;
   text-align: right;
-  position: absolute;
+  position: fixed;
   top: 1em;
   right: 2em; }
   nav span {
