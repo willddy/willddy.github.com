@@ -102,4 +102,12 @@ ___
 
 This is a tiny book for Git. It is good because it is short and simple. It covers basic usage of Git and a little about GitHub. It is particular good for people who want to learn Git from Zero. The is another link about GitHub call [GotGitHub](http://www.worldhello.net/gotgithub/), which is also recommended reading after this. The only pity is that it does not cover any advanced topics. Here is my [my book note](https://www.evernote.com/shard/s36/sh/f2cf70fa-6f1c-483b-9eab-23e52462f09e/4a50f05a3852edeb5a5fca7d03ed8d87)
 ___
- 
+<a href="http://www.packtpub.com/git-version-control-for-everyone/book" target="_blank"><img src="/images/gitversioncontrolforeveryone.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###Git: Version Control for Everyone
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i><i class="icon-star-empty"></i>
+#####Coding Area
+* Level Ent. 
+* Level Mid.  
+
+This is a complete beginner's workflow for version control of common documents and content. It has examples used are from non-techie, day to day computing activities for Git enter and middle level. It covers basic usage of Git and a little about Bitbucket in chapter 4. This book has very dtail of git command in terms of command output and how to run it in both git GUI and CLI.
+___
