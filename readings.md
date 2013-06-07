@@ -111,3 +111,13 @@ ___
 
 This is a complete beginner's workflow for version control of common documents and content. It has examples used are from non-techie, day to day computing activities for Git enter and middle level. It covers basic usage of Git and a little about Bitbucket in chapter 4. This book has very dtail of git command in terms of command output and how to run it in both git GUI and CLI.
 ___
+<a href="http://www.amazon.cn/gp/product/B004CLZ7BA" target="_blank"><img src="/images/maven3inaction.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###Maven 3 In Action
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i>
+#####Coding Area
+* Level Ent. 
+* Level Mid.  
+* Level Adv.  
+
+In reading. This is a few books having details about Maven 3, which is am excellent Java project management tools. This book not only cover the basic knowledge of maven, but also introduce related tools, like Hudson.
+___
