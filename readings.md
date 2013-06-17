@@ -2,7 +2,7 @@
 title: Readings
 layout: page
 ---
-<a href="http://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1449311520/ref=sr_1_1?ie=UTF8&qid=1368752048&sr=8-1&keywords=hadoop" target="_blank"><img src="/images/hadoopdefinateguide.jpg" width="150" height="200" alt="avatar" align ="right" /></a>
+<a href="http://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1449311520/ref=sr_1_1?ie=UTF8&qid=1368752048&sr=8-1&keywords=hadoop" target="_blank"><img src="/images/hadoopdefinitiveguide.jpg" width="150" height="200" alt="avatar" align ="right" /></a>
 
 ###Hadoop: The Definitive Guide
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
@@ -14,7 +14,6 @@ layout: page
 This is a really a good Hadoop book to recommend. I have read both 2nd and 3rd edition. The latest 3rd edition is based on the Hadoop 1.0. It covers almost everything on the Hadoop including Yarn. The author also has <a href="https://github.com/tomwhite/hadoop-book/" target="_blank"> github site </a> to share the code. Here is my [book note](https://www.evernote.com/shard/s36/sh/79d59799-3254-43a8-a316-e38e4760e3c8/a721c419a7cab4dd2592de6bc16203d4) 
 ___
 <a href="http://www.amazon.com/Hadoop-Practice-Alex-Holmes/dp/1617290238/ref=sr_1_1?s=books&ie=UTF8&qid=1368753609&sr=1-1&keywords=hadoop+in+practice" target="_blank"><img src="/images/hadoopinpractice.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
-
 ###Hadoop In Practice 
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
 #####Big Data Area
@@ -24,7 +23,6 @@ ___
 This is pretty good book, especially in the data science chapter. The hive part is a little bit old than other latest Hadoop book. The reading experience is also good. I like the way it provides number of "TECHNIQUE". It touches some new tool of big data that other books do not cover, such as Cloudera Crunch. There are no comments in the source code (request by publication), but there are enough comments added inline in the book.
 ___
 <a href="http://www.amazon.com/Hadoop-Real-World-Solutions-Cookbook/dp/1849519129/ref=sr_1_1?s=books&ie=UTF8&qid=1366441101&sr=1-1" target="_blank"><img src="/images/hadooprealworld.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
-
 ###Hadoop Real World Solution Cookbook
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i>
 #####Big Data Area
@@ -34,7 +32,6 @@ ___
 The code has no comments with explanation below. The way is really not I like. If put the comments in code, the book may have less pages to read. In addition, there are logic mistakes in the book because copy & paste error I think at least three – five time after I read 100s of pages, eg. p143 “hashset” should be “hashmap”. The charpter 7 starts looking good and deep which requires your knowledge on data mining and graph processing. This is a good tool reference book anyway
 ___
 <a href="http://www.amazon.cn/gp/product/B009X25AI8/ref=s9_simh_gw_p14_d0_i2?pf_rd_m=A1AJ19PSB66TGU&pf_rd_s=center-2&pf_rd_r=1TNX5AHP1FEA00R1XW0B&pf_rd_t=101&pf_rd_p=58223152&pf_rd_i=899254051" target="_blank"><img src="/images/hadoopinactionchi.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
-
 ###Hadoop 实战
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i><i class="icon-star-empty"></i>
 #####Big Data Area 
@@ -85,6 +82,17 @@ ___
 * Level Adv.   
 
 This book tells how map and reduce are implemented in source code level. It covers lots of detail that other book never mentioned. It can help reading the source code. This is kind of book helping uderstanding instead of practicing something. There are less code samples with book. The picture and comparing form in this book are really good for reading and undersanding.
+___
+<a href="http://shop.oreilly.com/product/0636920014348.do?sortby=publicationDate" target="_blank"><img src="/images/hbasedefinitiveguide.jpg" width="150" height="200" alt="avatar" align ="right" /></a>
+
+###HBase: The Definitive Guide
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
+#####Big Data Area
+* Level Ent.
+* Level Mid. 
+* Level Adv. 
+
+This is a really a good HBase book to recommend. This is the 1st edition and shows you how Apache HBase can fulfill your needs. As the open source implementation of Google's BigTable architecture, HBase scales to billions of rows and millions of columns, while ensuring that write and read performance remain constant. The author also has <a href="https://github.com/larsgeorge/hbase-book" target="_blank"> github site </a> to share the code. I am still in reading for now. 
 ___
 <a href="http://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544002695/ref=sr_1_1?ie=UTF8&qid=1367466814&sr=8-1&keywords=Big+Date%3AA+Revolution+That+Will+Transform+How+We+Live%2C+Work%2C+and+Think" target="_blank"><img src="/images/bigdataera.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###Big Data: A Revolution That Will Transform How We Live, Work, and Think
