@@ -83,6 +83,17 @@ ___
 
 This book tells how map and reduce are implemented in source code level. It covers lots of detail that other book never mentioned. It can help reading the source code. This is kind of book helping uderstanding instead of practicing something. There are less code samples with book. The picture and comparing form in this book are really good for reading and undersanding.
 ___
+<a href="http://www.packtpub.com/hbase-administration-for-optimum-database-performance-cookbook/book" target="_blank"><img src="/images/hbasecookbook.jpg" width="150" height="200" alt="avatar" align ="right" /></a>
+
+###HBase Administration Cookbook
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
+#####Big Data Area
+* Level Ent.
+* Level Mid. 
+* Level Adv. 
+
+In reading. This book is for HBase administrators, developers, and will even help Hadoop administrators. You are not required to have HBase experience, but are expected to have a basic understanding of Hadoop and MapReduce.
+___
 <a href="http://shop.oreilly.com/product/0636920014348.do?sortby=publicationDate" target="_blank"><img src="/images/hbasedefinitiveguide.jpg" width="150" height="200" alt="avatar" align ="right" /></a>
 
 ###HBase: The Definitive Guide
@@ -92,7 +103,7 @@ ___
 * Level Mid. 
 * Level Adv. 
 
-This is a really a good HBase book to recommend. This is the 1st edition and shows you how Apache HBase can fulfill your needs. As the open source implementation of Google's BigTable architecture, HBase scales to billions of rows and millions of columns, while ensuring that write and read performance remain constant. The author also has <a href="https://github.com/larsgeorge/hbase-book" target="_blank"> github site </a> to share the code. I am still in reading for now. 
+This is a really a good HBase book to recommend. This is the 1st edition and shows you how Apache HBase can fulfill your needs. As the open source implementation of Google's BigTable architecture, HBase scales to billions of rows and millions of columns, while ensuring that write and read performance remain constant. The author also has <a href="https://github.com/larsgeorge/hbase-book" target="_blank"> github site </a> to share the code. I am still in reading for now and it is a little bit hard. 
 ___
 <a href="http://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544002695/ref=sr_1_1?ie=UTF8&qid=1367466814&sr=8-1&keywords=Big+Date%3AA+Revolution+That+Will+Transform+How+We+Live%2C+Work%2C+and+Think" target="_blank"><img src="/images/bigdataera.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###Big Data: A Revolution That Will Transform How We Live, Work, and Think
