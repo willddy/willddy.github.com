@@ -13,7 +13,9 @@ How to add a backup master node to the cluster? There are two ways of doing that
     
         hadoop@master2$ $HBASE_HOME/bin/hbase-daemon.sh start master
 From the master log, you will find that the newly started master is waiting to become the next active master:<br>
->org.apache.hadoop.hbase.master.ActiveMasterManager: Another master is the active >master, ip-10-176-201-128.us-west-1.compute.internal,60000,1328878644330; waiting to >become the next active master
+>org.apache.hadoop.hbase.master.ActiveMasterManager: Another master is the active
+>master, ip-10-176-201-128.us-west-1.compute.internal,
+>60000,1328878644330; waiting to become the next active master
 
 2. Add the new region server's hostname into the regionservers file, under the $HBASE_HOME/conf directory. For example, to add "slave4" to the cluster, we invoke the following command:
 
@@ -37,13 +39,20 @@ From the master log, you will find that the newly started master is waiting to b
 3. Start HBase normally; you will find that a backup HBase master will be started at the backup master node:
 
         hadoop@master1$ $HBASE_HOME/bin/start-hbase.sh`<br>
->starting master, logging to /usr/local/hbase/logs/hbase-hadoop-master-master1.out
->slave2:starting regionserver,logging to /usr/local/hbase/logs/hbase-hadoop-regionserver-slave2.out
->slave1:starting regionserver,logging to /usr/local/hbase/logs/hbase-hadoop-regionserver-slave1.out 
->slave3:starting regionserver,logging to /usr/local/hbase/logs/hbase-hadoop-regionserver-slave3.out
->master2:starting master,logging to /usr/local/hbase/logs/hbase-hadoop-master-master2.out
+>starting master, 
+>logging to /usr/local/hbase/logs/hbase-hadoop-master-master1.out
+>slave2:starting regionserver,
+>logging to /usr/local/hbase/logs/hbase-hadoop-regionserver-slave2.out
+>slave1:starting regionserver,
+>logging to /usr/local/hbase/logs/hbase-hadoop-regionserver-slave1.out 
+>slave3:starting regionserver,
+>logging to /usr/local/hbase/logs/hbase-hadoop-regionserver-slave3.out
+>master2:starting master,
+>logging to /usr/local/hbase/logs/hbase-hadoop-master-master2.out
 4. The master log on the backup master indicates that it is a backup master: 
 
         hadoop@master2$ tail /usr/local/hbase/logs/hbase-hadoop-master-master2.log
 >2012-02-10 23:12:07,016 INFO
->org.apache.hadoop.hbase.master.ActiveMasterManager: Another master is the active master, ip-10-176-201-128.us-west-1.compute.internal, 60000,1328883123244; waiting to become the next active master
+>org.apache.hadoop.hbase.master.ActiveMasterManager: Another master is the active
+>master, ip-10-176-201-128.us-west-1.compute.internal, 
+>60000,1328883123244; waiting to become the next active master
