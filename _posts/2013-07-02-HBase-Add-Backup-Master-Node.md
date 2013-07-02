@@ -5,9 +5,11 @@ guid: urn:uuid:04aadc1c-8153-42ec-8c45-201307020953
 tags:
   - hbase
 ---
-How to add a backup master node to the cluster?
+How to add a backup master node to the cluster?<br>
 There are two ways of doing that.
-#### In One Way1. Start the HBase master daemon on the backup master node:
+
+#### In One Way
+1. Start the HBase master daemon on the backup master node:
 		hadoop@master2$ $HBASE_HOME/bin/hbase-daemon.sh start masterFrom the master log, you will find that the newly started master is waiting to become the next active master:
 		org.apache.hadoop.hbase.master.ActiveMasterManager: Another master is the
 		active master, ip-10-176-201-128.us-west-1.compute.internal,
