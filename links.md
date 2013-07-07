@@ -96,5 +96,6 @@ layout: page
 * [Easyhadoop - install scripts 1](https://github.com/easyhadoop/easyhadoop/blob/master/EasyHadoop_v1.0.sh)
 * [Easyhadoop - install scripts 2](http://www.fuzhijie.me/?p=306)
 * [More shared links](https://www.evernote.com/shard/s36/sh/0c3b1941-0255-42ff-bff2-4b11308c104d/4ffa624d965f0bae8b1ab2f96e9d1c53)
+* [Yahoo! Cloud System Benchmark](https://github.com/brianfrankcooper/YCSB)
 
 
