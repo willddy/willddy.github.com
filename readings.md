@@ -88,11 +88,10 @@ ___
 ###HBase Administration Cookbook
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
 #####Big Data Area
-* Level Ent.
 * Level Mid. 
 * Level Adv. 
 
-In reading. This book is for HBase administrators, developers, and will even help Hadoop administrators. You are not required to have HBase experience, but are expected to have a basic understanding of Hadoop and MapReduce.
+This book is for HBase administrators, developers, and will even help Hadoop administrators. You are not required to have HBase experience, but are expected to have a basic understanding of Hadoop and MapReduce. This is very practical tookit book for HBase admin. It does not talk more about API and focus on administration only.
 ___
 <a href="http://shop.oreilly.com/product/0636920014348.do?sortby=publicationDate" target="_blank"><img src="/images/hbasedefinitiveguide.jpg" width="150" height="200" alt="avatar" align ="right" /></a>
 
@@ -139,4 +138,13 @@ ___
 * Level Adv.  
 
 This is a few books having details about Maven 3, which is am excellent Java project management tools. This book not only cover the basic knowledge of maven, but also introduce related tools, like Hudson. In addition, there are more good maven readings such as, [Maven Complete Reference](http://books.sonatype.com/mvnref-book/reference/index.html), and [Maven Tutorial](http://www.tutorialspoint.com/maven/)
+___
+<a href="http://linuxcommand.org/tlcl.php" target="_blank"><img src="/images/thelinuxcmdline.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+####The Linux Command Line
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
+#####Coding Area
+* Level Ent. 
+* Level Mid.   
+
+In quick reading. This is a good begining guide for fresh people in linux programming. It is also a good quick review book. I never learn linux form books but from using experence and system manuals. This is a a free book which is recommanded to read to learn lLinux in systematic way.
 ___
