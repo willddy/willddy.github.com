@@ -146,5 +146,5 @@ ___
 * Level Ent. 
 * Level Mid.   
 
-In quick reading. This is a good begining guide for fresh people in linux programming. It is also a good quick review book. I never learn linux form books but from using experence and system manuals. This is a a free book which is recommanded to read to learn lLinux in systematic way.
+This is a good begining guide for fresh people in linux programming. It is also a good quick review book. I never learn linux form books but from using experence and system manuals. This is a a free book which is recommanded to read to learn lLinux in systematic way.
 ___
