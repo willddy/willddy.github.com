@@ -148,3 +148,11 @@ ___
 
 This is a good begining guide for fresh people in linux programming. It is also a good quick review book. I never learn linux form books but from using experence and system manuals. This is a a free book which is recommanded to read to learn lLinux in systematic way.
 ___
+<a href="http://www.packtpub.com/apache-hive-essentials-how-to/book" target="_blank"><img src="/images/instantapachehiveessentials.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###Instant Apache Hive Essentials How-to
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i><i class="icon-star-empty"></i>
+#####Big Data Area
+* Level Ent. 
+* Level Mid.   
+
+The book creates fast way to query data using hive in few hours. This is great than searching the apache confluence to see the breaked help documents especially for new hive users. The book has few pages to read and easier to understand. The author also gives level of complex for each chapters so that different level of users could quickly pick up what he/she needs.
