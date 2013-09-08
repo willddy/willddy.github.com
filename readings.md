@@ -18,7 +18,6 @@ layout: page
 
 This is a really a good Hadoop book to recommend. I have read both 2nd and 3rd edition. The latest 3rd edition is based on the Hadoop 1.0. It covers almost everything on the Hadoop including Yarn. The author also has <a href="https://github.com/tomwhite/hadoop-book/" target="_blank"> github site </a> to share the code. Here is my [book note](https://www.evernote.com/shard/s36/sh/79d59799-3254-43a8-a316-e38e4760e3c8/a721c419a7cab4dd2592de6bc16203d4)
 <br>
-<br>
 ___
 <a href="http://www.amazon.com/Hadoop-Practice-Alex-Holmes/dp/1617290238/ref=sr_1_1?s=books&ie=UTF8&qid=1368753609&sr=1-1&keywords=hadoop+in+practice" target="_blank"><img src="/images/hadoopinpractice.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###Hadoop In Practice 
@@ -46,8 +45,6 @@ ___
 
 This book is a Chinese book which has same name to below but with totally different. It covers majority Hadoop components and reading friendly. I only read the 1st edition, so the things are a little out of date. The 2ed is also on the shelf right now. Generally, it is just introduction and lacks of details and high skills.
 <br>
-<br>
-<br>
 ___
 <a href="http://www.manning.com/lam/" target="_blank"><img src="/images/hadoopinaction.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###Hadoop In Action
@@ -56,11 +53,6 @@ ___
 * Level Ent.
 
 I got hard copy of this. This book is a little bit old based on Hadoop 0.19. It covers majority Hadoop components. It also has Chinese version.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 ___
 <a href="http://packtlib.packtpub.com/hadoop-mapreduce-cookbook/book" target="_blank"><img src="/images/hadoopmrcookbook.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
@@ -83,8 +75,6 @@ ___
 
 The topic is really focus. The pattern is not that exciting comparing with Java’s in description. There is small values if you already read below other books. There are typos and mistakes. I cannot find the source code either.
 <br>
-<br>
-<br>
 ___
 <a href="http://ofps.oreilly.com/titles/9781449302641/" target="_blank"><img src="/images/programmingpig.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###Programming Pig
@@ -103,8 +93,6 @@ ___
 
 This book tells how map and reduce are implemented in source code level. It covers lots of detail that other book never mentioned. It can help reading the source code. This is kind of book helping uderstanding instead of practicing something. There are less code samples with book. The picture and comparing form in this book are really good for reading and undersanding.
 <br>
-<br>
-<br>
 ___
 <a href="http://www.packtpub.com/hbase-administration-for-optimum-database-performance-cookbook/book" target="_blank"><img src="/images/hbasecookbook.jpg" width="150" height="200" alt="avatar" align ="right" /></a>
 
@@ -115,7 +103,6 @@ ___
 * Level Adv. 
 
 This book is for HBase administrators, developers, and will even help Hadoop administrators. You are not required to have HBase experience, but are expected to have a basic understanding of Hadoop and MapReduce. This is very practical tookit book for HBase admin. It does not talk more about API and focus on administration only.
-<br>
 <br>
 ___
 <a href="http://shop.oreilly.com/product/0636920014348.do?sortby=publicationDate" target="_blank"><img src="/images/hbasedefinitiveguide.jpg" width="150" height="200" alt="avatar" align ="right" /></a>
@@ -138,7 +125,6 @@ ___
 
 It is one of few books of big data using real example to tell what's revolution brought by big data. The signatures of big data it describes are really impressive. This book motives readers to explore the value behind of big data. It is a good book to encourage people to explore the big data area.
 <br>
-<br>
 ___
 <a href="http://www.packtpub.com/apache-hive-essentials-how-to/book" target="_blank"><img src="/images/instantapachehiveessentials.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###Instant Apache Hive Essentials How-to
@@ -158,8 +144,6 @@ ___
 * Level Ent. 
 
 This is a tiny book for Git. It is good because it is short and simple. It covers basic usage of Git and a little about GitHub. It is particular good for people who want to learn Git from Zero. The is another link about GitHub call [GotGitHub](http://www.worldhello.net/gotgithub/), which is also recommended reading after this. The only pity is that it does not cover any advanced topics. Here is my [my book note](https://www.evernote.com/shard/s36/sh/f2cf70fa-6f1c-483b-9eab-23e52462f09e/4a50f05a3852edeb5a5fca7d03ed8d87)
-<br>
-<br>
 <br>
 ___
 <a href="http://www.packtpub.com/git-version-control-for-everyone/book" target="_blank"><img src="/images/gitversioncontrolforeveryone.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
@@ -188,8 +172,6 @@ ___
 * Level Ent. 
 * Level Mid.   
 
-This is a good begining guide for fresh people in linux programming. It is also a good quick review book. I never learn linux form books but from using experence and system manuals. This is a a free book which is recommanded to read to learn lLinux in systematic way.
-<br>
-<br>
+This is a good begining guide for fresh people in linux programming. It is also a good quick review book. I never learn linux form books but from using experence and system manuals. This is a a free book which is recommanded to read to learn Linux in systematic way.
 <br>
 ___
