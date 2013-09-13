@@ -19,16 +19,16 @@ layout: page
 * [Instant Apache Hive Essentials How-to](#iaheh)
 
 ####[Part 2. Coding Area](#ca)
-* Geting Good with GIT
-* Git: Version Control for Everyone
-* Maven 3 In Action
-* The Linux Command Line
+* [Geting Good with GIT](#ggwg)
+* [Git: Version Control for Everyone](#gvcfe)
+* [Maven 3 In Action](#m3ia)
+* [The Linux Command Line](#tlcl)
 
 ####[Part 3. DBDW Area](#da)
-* Oracle PL/SQL Receipts
+* [Oracle PL/SQL Receipts](#opr)
 
 <br>
-###[Part 1. Big Data Area](id:bda)
+
 ---
 <a href="http://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1449311520/ref=sr_1_1?ie=UTF8&qid=1368752048&sr=8-1&keywords=hadoop" target="_blank"><img src="/images/hadoopdefinitiveguide.jpg" width="150" height="200" alt="avatar" align ="right" /></a>
 
@@ -151,10 +151,10 @@ ___
 
 The book creates fast way to query data using hive in few hours. This is great than searching the apache confluence to see the breaked help documents especially for new hive users. The book has few pages to read and easier to understand. The author also gives level of complex for each chapters so that different level of users could quickly pick up what he/she needs.
 ___
-###[Part 2. Coding Area](id:ca)
+
 ___
 <a href="http://rockablepress.com/books/getting-good-with-git" target="_blank"><img src="/images/gettinggoodwithgit.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
-###Geting Good with GIT
+###[Geting Good with GIT](id:ggwg)
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i><i class="icon-star-empty"></i>
 
 * Level Ent. 
@@ -162,7 +162,7 @@ ___
 This is a tiny book for Git. It is good because it is short and simple. It covers basic usage of Git and a little about GitHub. It is particular good for people who want to learn Git from Zero. The is another link about GitHub call [GotGitHub](http://www.worldhello.net/gotgithub/), which is also recommended reading after this. The only pity is that it does not cover any advanced topics. Here is my [my book note](https://www.evernote.com/shard/s36/sh/f2cf70fa-6f1c-483b-9eab-23e52462f09e/4a50f05a3852edeb5a5fca7d03ed8d87)
 ___
 <a href="http://www.packtpub.com/git-version-control-for-everyone/book" target="_blank"><img src="/images/gitversioncontrolforeveryone.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
-###Git: Version Control for Everyone
+###[Git: Version Control for Everyone](id:gvcfe)
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i><i class="icon-star-empty"></i>
  
 * Level Ent. 
@@ -171,7 +171,7 @@ ___
 This is a complete beginner's workflow for version control of common documents and content. It has examples used are from non-techie, day to day computing activities for Git enter and middle level. It covers basic usage of Git and a little about Bitbucket in chapter 4. This book has very dtail of git command in terms of command output and how to run it in both git GUI and CLI.
 ___
 <a href="http://www.amazon.cn/gp/product/B004CLZ7BA" target="_blank"><img src="/images/maven3inaction.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
-###Maven 3 In Action
+###[Maven 3 In Action](id:m3ia)
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-empty"></i>
  
 * Level Ent. 
@@ -181,7 +181,7 @@ ___
 This is a few books having details about Maven 3, which is am excellent Java project management tools. This book not only cover the basic knowledge of maven, but also introduce related tools, like Hudson. In addition, there are more good maven readings such as, [Maven Complete Reference](http://books.sonatype.com/mvnref-book/reference/index.html), and [Maven Tutorial](http://www.tutorialspoint.com/maven/)
 ___
 <a href="http://linuxcommand.org/tlcl.php" target="_blank"><img src="/images/thelinuxcmdline.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
-###The Linux Command Line
+###[The Linux Command Line](id:tlcl)
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
  
 * Level Ent. 
@@ -189,5 +189,13 @@ ___
 
 This is a good begining guide for fresh people in linux programming. It is also a good quick review book. I never learn linux form books but from using experence and system manuals. This is a a free book which is recommanded to read to learn Linux in systematic way.
 ___
-###[Part 3. DBDW Area](id:da)
 ___
+<a href="http://www.apress.com/9781430232070" target="_blank"><img src="/images/pro_oracle_sql.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###[Oracle PL/SQL Receipts](id:opr)
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
+ 
+* Level Ent. 
+* Level Mid.   
+* Level Mid.
+
+This is a good PL/SQL book for all level of reading. It uses different small tables with solutions to cover every corner of PL/SQL in Oracle 11g. This is a good cook book. It is easy to learn and to read.
