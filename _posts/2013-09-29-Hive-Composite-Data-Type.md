@@ -71,7 +71,7 @@ Query the table
 	23. NULL
 	24. Time taken: 15.958 seconds
 
-#####2. Map 的使用 
+#####2. Map  
 Create table using array data type
 
 	01. create table score(name string, score map<string,int>)
