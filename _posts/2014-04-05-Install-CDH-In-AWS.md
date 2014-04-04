@@ -54,6 +54,7 @@ tags:
 19.	 Click on the Hosts tab to get the list of nodes and their status which should be in Good.
 
 **Note**:
+
 * Need to set the hadoop dfs folder and temp folder to permnant storage in the EC2 so that when you stop and start the Hadoop, the data and configuration are still there
 
 * Proverly configure the firewall ports roles to make install scussfully (You can allow specific local address in VNC and your own public IP to access for all ports)
