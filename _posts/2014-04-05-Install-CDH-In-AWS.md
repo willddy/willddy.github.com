@@ -1,11 +1,10 @@
 ---
-title: Hive Composite Data Type 
+title: Steps to setup EC2 cluster for Hadoop 
 layout: post
-guid: urn:uuid:04aadc1c-8153-42ec-8c45-201309291553
+guid: urn:uuid:04aadc1c-8153-42ec-8c45-201404041555
 tags:
-  - hive
+  - hadoop
 ---
-##Steps to setup EC2 cluster for Hadoop
 
 1. Get the `Access Key ID` and `Secret Access Key` and store it in a notepad. The keys will be used when creating EC2 instances. If not there, then generate a new set of keys.
 
@@ -56,4 +55,5 @@ tags:
 
 **Note**:
 * Need to set the hadoop dfs folder and temp folder to permnant storage in the EC2 so that when you stop and start the Hadoop, the data and configuration are still there
+
 * Proverly configure the firewall ports roles to make install scussfully (You can allow specific local address in VNC and your own public IP to access for all ports)
