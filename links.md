@@ -8,6 +8,10 @@ layout: page
 * [Machine Learning Blog](http://www.cnblogs.com/LeftNotEasy/)
 * [Mahout Blog](http://blog.csdn.net/bornhe/article/details/7425471)
 
+###Visualization
+* [Tableau Best Practice of Visual Design Guide](http://www.tableausoftware.com/learn/whitepapers/tableau-visual-guidebook)
+ 
+
 ###NoSQL
 * [Cassandra-vs-Mongodb-vs-Couchdb-vs-Redis](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
 * [NoSQL Fun](http://blog.nosqlfan.com/)
@@ -23,6 +27,7 @@ layout: page
 * [Cloud Computing 2011 Course at SYSU](http://ss.sysu.edu.cn/~xyb/courses/2011-1-cloud/)
 * [InfoQ Hadoop Video](http://www.infoq.com/cn/bigdata/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk) 
 * [Easy Hadoop Community](http://bbs.easyhadoop.com/forum.php?mod=viewthread&tid=163&extra=page%3D1)
+
 #####Blog
 * [Xia's Hadoop Blog](http://www.cnblogs.com/xia520pi/)
 * [Codeplayer's Hadoop Blog](http://coderplay.iteye.com/category/15688)
@@ -32,6 +37,7 @@ layout: page
 * [Heipark's Hadoop Blog](http://heipark.iteye.com/category/126118)
 * [Hadoopor](http://www.hadoopor.com/)
 * [Orateam](http://www.oratea.net/)
+
 #####Other
 * [Hadoop Service Providers](http://tech.it168.com/a2012/0503/1344/000001344570.shtml)
 * [Hadoop Commercial Version Compare](http://www.xiaohui.org/archives/795.html) 
