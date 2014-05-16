@@ -27,6 +27,9 @@ layout: page
 ####[Part 3. DBDW Area](#da)
 * [Oracle PL/SQL Receipts](#opr)
 
+####[Part 4. BI Area](#ba)
+* [Tableau Your Data](#tyd)
+
 <br>
 
 ---
@@ -189,7 +192,6 @@ ___
 
 This is a good begining guide for fresh people in linux programming. It is also a good quick review book. I never learn linux form books but from using experence and system manuals. This is a a free book which is recommanded to read to learn Linux in systematic way.
 ___
-___
 <a href="http://www.apress.com/9781430232070" target="_blank"><img src="/images/pro_oracle_sql.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Oracle PL/SQL Receipts](id:opr)
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
@@ -199,3 +201,12 @@ ___
 * Level Mid.
 
 This is a good PL/SQL book for all level of reading. It uses different small tables with solutions to cover every corner of PL/SQL in Oracle 11g. This is a good cook book. It is easy to learn and to read.
+___
+<a href="http://www.amazon.ca/Tableau-Your-Data-Analysis-Software/dp/1118612043" target="_blank"><img src="/images/tableau_your_data.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###[Tableau Your Data](id:tyd)
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
+ 
+* Level Ent. 
+* Level Mid.   
+
+This is a good Tableau guide for data visualization based on the latest version of the software. It is detail oritented. I am reding it right now.
