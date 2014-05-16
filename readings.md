@@ -26,6 +26,7 @@ layout: page
 
 ####[Part 3. DBDW Area](#da)
 * [Oracle PL/SQL Receipts](#opr)
+* [MongoDB: The Definitive Guide, 2nd Edition](#mtdg)
 
 ####[Part 4. BI Area](#ba)
 * [Tableau Your Data](#tyd)
@@ -198,9 +199,18 @@ ___
  
 * Level Ent. 
 * Level Mid.   
-* Level Mid.
+* Level Adv.
 
 This is a good PL/SQL book for all level of reading. It uses different small tables with solutions to cover every corner of PL/SQL in Oracle 11g. This is a good cook book. It is easy to learn and to read.
+___
+<a href="http://shop.oreilly.com/product/0636920028031.do" target="_blank"><img src="/images/mongodb_guide.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###[MongoDB: The Definitive Guide, 2nd Edition](id:mtdg)
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
+ 
+* Level Mid.   
+* Level Adv.
+
+This is a good book for middle to advanced level of reading. Still reading it.
 ___
 <a href="http://www.amazon.ca/Tableau-Your-Data-Analysis-Software/dp/1118612043" target="_blank"><img src="/images/tableau_your_data.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Tableau Your Data](id:tyd)
