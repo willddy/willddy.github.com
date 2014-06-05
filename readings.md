@@ -237,4 +237,4 @@ ___
 * Level Ent. 
 * Level Mid.   
 
-This is a good Tableau guide for data visualization based on the latest version of the software. It is detail oritented. I am reding it right now.
+This is a good Tableau guide for data visualization based on the latest version of the software. It is detail oritented. It covers lots of details especially on the server deployment and security. The case study charpter is also good reference.
