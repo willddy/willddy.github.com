@@ -17,6 +17,7 @@ layout: page
 * [HBase: The Definitive Guide](#htdg)
 * [Big Data: A Revolution That Will Transform How We Live, Work, and Think](#bda)
 * [Instant Apache Hive Essentials How-to](#iaheh)
+* [Fast Data Processing with Spark](#fdpws)
 
 ####[Part 2. Coding Area](#ca)
 * [Geting Good with GIT](#ggwg)
@@ -155,6 +156,23 @@ ___
 
 The book creates fast way to query data using hive in few hours. This is great than searching the apache confluence to see the breaked help documents especially for new hive users. The book has few pages to read and easier to understand. The author also gives level of complex for each chapters so that different level of users could quickly pick up what he/she needs.
 ___
+<a href="http://www.amazon.com/Big-Data-Revolution-Transform-Think/dp/0544002695/ref=sr_1_1?ie=UTF8&qid=1367466814&sr=8-1&keywords=Big+Date%3AA+Revolution+That+Will+Transform+How+We+Live%2C+Work%2C+and+Think" target="_blank"><img src="/images/bigdataera.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###[Big Data: A Revolution That Will Transform How We Live, Work, and Think](id:bda)
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i>
+ 
+* Level Ent. 
+
+It is one of few books of big data using real example to tell what's revolution brought by big data. The signatures of big data it describes are really impressive. This book motives readers to explore the value behind of big data. It is a good book to encourage people to explore the big data area.
+___
+<a href="http://www.packtpub.com/fast-data-processing-with-spark/book" target="_blank"><img src="/images/FastDataProcessingwithSpark.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###[Fast Data Processing with Spark](id:fdpws)
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i><i class="icon-star-empty"></i>
+#####Big Data Area
+* Level Ent. 
+* Level Mid.   
+
+The book introduces the new faster massive data processing data framework Spark. This is great supporting hadoop, hdfs, hbase and more effecient than MapReduce. Start reading.
+
 
 ___
 <a href="http://rockablepress.com/books/getting-good-with-git" target="_blank"><img src="/images/gettinggoodwithgit.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
