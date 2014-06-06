@@ -18,6 +18,8 @@ layout: page
 * [Big Data: A Revolution That Will Transform How We Live, Work, and Think](#bda)
 * [Instant Apache Hive Essentials How-to](#iaheh)
 * [Fast Data Processing with Spark](#fdpws)
+* [Agile Data Science - Build Data Analytics With Hadoop](#ads)
+* [Doing Data Science - Straight Talk from the Frontline](#dds)
 
 ####[Part 2. Coding Area](#ca)
 * [Geting Good with GIT](#ggwg)
@@ -164,7 +166,24 @@ ___
 * Level Mid.   
 
 The book introduces the new faster massive data processing data framework Spark. This is great supporting hadoop, hdfs, hbase and more effecient than MapReduce. Start reading.
+___
+<a href="http://shop.oreilly.com/product/0636920025054.do?sortby=bestSellers" target="_blank"><img src="/images/AgileDataScience.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###[Agile Data Science - Building Data Analytics Applications with Hadoop](id:ads)
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"><i class="icon-star-empty"></i></i><i class="icon-star-empty"></i>
+#####Big Data Area
+* Level Mid.   
+* Level Adv. 
+The book looks like a case study from beginning to the end. It has lots of code covering implementation of one big data project. It requires coding skills of Python.
 
+___
+<a href="http://shop.oreilly.com/product/0636920028529.do" target="_blank"><img src="/images/doingdatascience.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###[Doing Data Science - Start Talking From Frontline](id:dds)
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"><i class="icon-star"></i></i><i class="icon-star-empty"></i>
+#####Big Data Area
+* Level Ent.   
+* Level Mid.   
+* Level Adv. 
+Start reading it
 
 ___
 <a href="http://rockablepress.com/books/getting-good-with-git" target="_blank"><img src="/images/gettinggoodwithgit.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
