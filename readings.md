@@ -173,6 +173,7 @@ ___
 #####Big Data Area
 * Level Mid.   
 * Level Adv. 
+
 The book looks like a case study from beginning to the end. It has lots of code covering implementation of one big data project. It requires coding skills of Python.
 
 ___
@@ -183,6 +184,7 @@ ___
 * Level Ent.   
 * Level Mid.   
 * Level Adv. 
+
 Start reading it
 
 ___
