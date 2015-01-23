@@ -27,7 +27,7 @@ Storm is the streaming solution in the Hortonworks Hadoop Data Platform. Spark S
 
 Here is a fair [blog post](http://xinhstechblog.blogspot.ca/2014/06/storm-vs-spark-streaming-side-by-side.html) to compare the two. <br/>
 I will star from <br/>
-**_PacktLib - Fast Data Processing with Spark_''**
+**''_PacktLib - Fast Data Processing with Spark_''**
   
 
  
