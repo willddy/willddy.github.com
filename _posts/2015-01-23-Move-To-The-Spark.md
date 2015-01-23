@@ -15,11 +15,11 @@ Big data ecosystem has great changes over the past two years. The speed of big d
 
 Comparing to Spark, Storm has longer history and sub-seconds latency. While Spark has offered feature for both real-time streaming and batching. Even the streaming feature is only production aware since 2013, it did catch lots of attention. As for me, I'll go for Spark next for the following 3 reasons.
 * Ecosystem 
-Spark has wide support on the big data infrastructure on Yarn. That is very important since lots of big data projects start from Hadoop. There is Storm over Yarn (https://github.com/yahoo/storm-yarn), which is still in progress. To switch to a new platform is not esasier than adaption and migration. Spark now also has formed its ecosystem with a stack of high-level tools including Spark SQL, MLlib for machine learning, GraphX, and Spark Streaming. You can combine these libraries seamlessly in the same application.
+Spark has wide support on the big data infrastructure on Yarn. That is very important since lots of big data projects start from Hadoop. There is [Storm Over Yarn](https://github.com/yahoo/storm-yarn), which is still in progress. To switch to a new platform is not esasier than adaption and migration. Spark now also has formed its ecosystem with a stack of high-level tools including Spark SQL, MLlib for machine learning, GraphX, and Spark Streaming. You can combine these libraries seamlessly in the same application.
 
 * Scala and SQL 
 Compare with Storm, Spark is buit on Scala which is more interested to me than Clojure used to write Storm. In addition, Spark SQL and Hive Over Spark are avaliable as SQL interface for Spark. This will attract lots of SQL and Hive users. But, Storm has no such support natively.
-There is a commerical product called sqlstream (http://www.sqlstream.com/downloads/) and a open source squall (https://github.com/epfldata/squall/wiki) from EPFL DATA.
+There is a commerical product called [sqlstream](http://www.sqlstream.com/downloads/) and a open source [Squall](https://github.com/epfldata/squall/wiki) from EPFL DATA.
 
 * Supporting
 Storm is the streaming solution in the Hortonworks Hadoop Data Platform. Spark Streaming is in both MapR's distribution and Cloudera's Enterprise data platform. In addition, Databricks is a company that provides support for the Spark.
