@@ -5,7 +5,7 @@ guid: urn:uuid:04aadc1c-8153-42ec-8c45-201501230930
 tags:
   - hadoop, spark, bigdata
 ---
-It has been a while that the blog is now updated since 2014 is a ready busy year. After I almost completed the new book recently, I think it is the right time to start new jounery in big data for real time processing.
+It has been a while that the blog is now updated since 2014 is a ready busy year. After I almost completed my first book recently, I think it is the right time to start new jounery in big data for real time processing.
 
 Big data ecosystem has great changes over the past two years. The speed of big data processing becomes the hot topic over the past year. When Hadoop enter the area of YARN, it becomes more like a distribute computing infrastructure. Lots of computing frameworks which are better designed and faster than MapReduce start adaption on top of YARN and catch more attentions on their improvements over MapReduce computing. Two star of real time big data processing is storm and spark.
 
