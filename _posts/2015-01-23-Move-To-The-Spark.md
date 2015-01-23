@@ -3,7 +3,9 @@ title: Move to the Spark
 layout: post
 guid: urn:uuid:04aadc1c-8153-42ec-8c45-201501230930
 tags:
-  - hadoop, spark, bigdata
+  - hadoop
+  - spark
+  - bigdata
 ---
 It has been a while that the blog is now updated since 2014 is a ready busy year. After I almost completed my first book recently, I think it is the right time to start new jounery in big data for real time processing.
 
