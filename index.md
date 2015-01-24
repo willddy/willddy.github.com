@@ -5,7 +5,7 @@ layout: default
 
 <div>
   <ul class="listing">
-  {% for post in site.posts limit: 15%}
+  {% for post in site.posts limit: 10%}
   <article class="content">
     <section class="title">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
