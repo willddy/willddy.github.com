@@ -101,7 +101,7 @@ scala>
 ###Note:###
 If there is below exception, pls. make sure the local loop address is avaliable in the host file.  
 ``` 
-java.net.UnknownHostException: mymac: mymac: nodename nor servname provided, or not known 
+java.net.UnknownHostException: mymac: mymac: nodename nor servname provided, or not known
 mymac$ sudo echo "127.0.0.1 mymac" >> /etc/hosts
 ```
  
