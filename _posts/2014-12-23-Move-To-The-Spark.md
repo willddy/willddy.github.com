@@ -7,11 +7,11 @@ tags:
   - spark
   - bigdata
 ---
-<a href="https://storm.apache.org/" target="_blank"><img src="/images/storm_logo.png" width="350" height="400" alt="avatar" align ="left" /></a><a href="http://spark.apache.org/" target="_blank"><img src="/images/spark_logo.png" width="350" height="400" alt="avatar" align ="right" /></a>
-
 It has been a while that the blog is now updated since 2014 is a ready busy year. After I almost completed my first book recently, I think it is the right time to start new journey in big data for real time processing.
 
 Big data ecosystem has great changes over the past two years. The speed of big data processing becomes the hot topic over the past year. When Hadoop enter the area of Yarn, it becomes more like a distribute computing infrastructure. Lots of computing frameworks which are better designed and faster than MapReduce start adaption on top of Yarn and catch more attentions on their improvements over MapReduce computing. Two stars of real time big data processing are storm and spark.
+
+<a href="https://storm.apache.org/" target="_blank"><img src="/images/storm_logo.png" width="350" height="400" alt="avatar" align ="left" /></a><a href="http://spark.apache.org/" target="_blank"><img src="/images/spark_logo.png" width="350" height="400" alt="avatar" align ="right" /></a>
 
 Big data ecosystem has great changes over the past two years. The speed of big data processing becomes the hot topic over the past year. When Hadoop enter the area of YARN, it becomes more like a distribute computing infrastructure. Lots of computing frameworks which are better designed and faster than MapReduce start adaption on top of Yarn and catch more attentions on their improvements over MapReduce computing. Two star of real time big data processing is Storm and Spark.
 
