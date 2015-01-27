@@ -8,7 +8,7 @@ tags:
 Most of time, we need to find the max or min value of particular columns as well as other columns. For example, we have following employee table.
 
 ```
->SELECT name,sex_age.sex AS sex,sex_age.age AS age FROM employee;
+> SELECT name,sex_age.sex AS sex,sex_age.age AS age FROM employee;
 +----------+---------+------+
 |   name   |   sex   | age  |
 +----------+---------+------+
