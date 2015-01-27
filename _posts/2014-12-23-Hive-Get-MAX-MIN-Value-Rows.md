@@ -26,7 +26,7 @@ We want to know **Who is oldest of males or females?** There are three solutions
 The most frequent way of doing it is to to firstly find the MAX of age in each SEX group and do SELF JOIN by matching SEX and the MAX age as follows. This will create two stages of jobs and **NOT** efficient.
 
 ```
->SELECT employee.sex_age.sex, employee.sex_age.age, name 
+> SELECT employee.sex_age.sex, employee.sex_age.age, name 
 > FROM
 > employee JOIN 
 > (
@@ -68,7 +68,7 @@ Once Hive 0.11.0 introduced analytics functions, we can use ROW_NUMBER to solve 
 ```
 
 ####Solution 3
-Actually, there are other better ways of doing it as follows through max/min struct function from **[Hive-1128](https://issues.apache.org/jira/browse/HIVE-1128)**, although it is not documented anywhere in the Hive Wiki.
+Actually, there is a better way of doing it as follows through ***MAX/MIN STRUCT*** function added by **[Hive-1128](https://issues.apache.org/jira/browse/HIVE-1128)** since Hive 0.6.0, although it is not documented anywhere in the Hive Wiki.
 
 ```
 > SELECT sex_age.sex, 
