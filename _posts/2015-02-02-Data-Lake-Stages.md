@@ -6,9 +6,7 @@ tags:
   - hadoop
   - bigdata
 ---
-![](/images/datalake.png)
-
-Edd has post a very impressive [blog](http://www.forbes.com/sites/edddumbill/2014/01/14/the-data-lake-dream/) about how Hadoop ecosystem influence the data lake in enterprise recently. It discussed about the four following stages when enterprise's data evolution  to the dream of data lake. I also share some of mine as addition.
+![](/images/datalake.png) Edd has post a very impressive [blog](http://www.forbes.com/sites/edddumbill/2014/01/14/the-data-lake-dream/) about how Hadoop ecosystem influence the data lake in enterprise recently. It discussed about the four following stages when enterprise's data evolution  to the dream of data lake. I also share some of mine as addition.
 
 #####Stage 1 - Life Before Hadoop
 ![Life Before Hadoop](http://b-i.forbesimg.com/edddumbill/files/2014/01/stage1.png "Life Before Hadoop")
