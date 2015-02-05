@@ -7,7 +7,7 @@ tags:
  - datamining
 
 ---
-![](http://www.strategicanalyticsolutions.com/siteimages/predictive%20analytics.jpg)
+![](http://www.cdm.depaul.edu/academics/PublishingImages/heroMSPA.jpg)
 <div>
 <div>Predictive analytics can be broken down into three broad categories: Recommender, Classification, Clustering</div>
 <br>
