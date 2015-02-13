@@ -105,6 +105,7 @@ scala>
  
 ###Note:###
 If there is below exception, pls. make sure the local loop address is avaliable in the host file.  
+
 ``` 
 java.net.UnknownHostException: mymac: mymac: nodename nor servname provided, or not known
 
