@@ -44,6 +44,8 @@ Run `brew doctor` before you install anything
 Run `brew help` to get started
 ```
 ####2. Install the spark from Brew
+
+```
 mymac:$ brew install apache-spark
 ==> Downloading 
 http://d3kbcqa49mib13.cloudfront.net/spark-1.2.0-bin-hadoop2.4.t
