@@ -28,6 +28,8 @@ There is a commerical product called [sqlstream](http://www.sqlstream.com/downlo
 Storm is the streaming solution in the Hortonworks Hadoop Data Platform. Spark Streaming is in both MapR's distribution and Cloudera's Enterprise data platform. In addition, Databricks is a company that provides support for the Spark.
 
 Here is a fair [blog post](http://xinhstechblog.blogspot.ca/2014/06/storm-vs-spark-streaming-side-by-side.html) to compare the two.
+
+Will Spark十Tachyon十HDFS十YARN be the future??
   
 
  
