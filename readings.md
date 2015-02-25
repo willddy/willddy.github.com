@@ -20,6 +20,7 @@ layout: page
 * [Fast Data Processing with Spark](#fdpws)
 * [Agile Data Science - Build Data Analytics With Hadoop](#ads)
 * [Doing Data Science - Straight Talk from the Frontline](#dds)
+* [Learning Spark - Lightning-Fast Big Data Analysis](#ls)
 
 ####[Part 2. Coding Area](#ca)
 * [Geting Good with GIT](#ggwg)
@@ -165,7 +166,7 @@ ___
 * Level Ent. 
 * Level Mid.   
 
-The book introduces the new faster massive data processing data framework Spark. This is great supporting hadoop, hdfs, hbase and more effecient than MapReduce. Start reading.
+The book introduces the new faster massive data processing data framework Spark. This is great supporting hadoop, hdfs, hbase and more effecient than MapReduce. Prepare to read it.
 ___
 <a href="http://shop.oreilly.com/product/0636920025054.do?sortby=bestSellers" target="_blank"><img src="/images/AgileDataScience.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Agile Data Science - Building Data Analytics Applications with Hadoop](id:ads)
@@ -185,7 +186,18 @@ ___
 * Level Mid.   
 * Level Adv. 
 
-Start reading it
+Prepare to read it
+
+___
+<a href="http://shop.oreilly.com/product/0636920028512.do" target="_blank"><img src="/images/learningspark.png" width="150" height="200" alt="avatar" align ="right"  /></a>
+###[Learning Spark - Lightning-Fast Big Data Analysis](id:ls)
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"><i class="icon-star"></i></i><i class="icon-star-empty"></i>
+#####Big Data Area
+* Level Ent.   
+* Level Mid.   
+* Level Adv. 
+
+Start reading it.
 
 ___
 <a href="http://rockablepress.com/books/getting-good-with-git" target="_blank"><img src="/images/gettinggoodwithgit.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
