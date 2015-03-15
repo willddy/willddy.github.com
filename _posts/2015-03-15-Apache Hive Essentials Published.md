@@ -14,4 +14,4 @@ Finally, I made it. I got it published after working for 6 monthes.
 * Also the first book on Apache Hive 1.0.0 in the world
 
 Check it out [here](https://www.packtpub.com/big-data-and-business-intelligence/apache-hive-essentials)
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/apache-hive-essentials" target="_blank"><img src="/images/hivebooks.jpg" width="150" height="200" alt="avatar" align ="right" /></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/apache-hive-essentials" target="_blank"><img src="/images/hivebooks.jpg" width="150" height="200" alt="avatar" align ="left" /></a>
