@@ -27,6 +27,7 @@ layout: page
 * [Maven 3 In Action](#m3ia)
 * [The Linux Command Line](#tlcl)
 * [Learning Scala Practical Functional Programming for the JVM](#lspf)
+* [Scala Cookbook](#sc)
 * [Scala Puzzlers](#sp)
 
 ####[Part 3. DBDW Area](#da)
@@ -154,7 +155,7 @@ ___
 <a href="http://www.packtpub.com/apache-hive-essentials-how-to/book" target="_blank"><img src="/images/instantapachehiveessentials.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Instant Apache Hive Essentials How-to](id:iaheh)
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i><i class="icon-star-empty"></i>
-#####Big Data Area
+
 * Level Ent. 
 * Level Mid.   
 
@@ -163,7 +164,7 @@ ___
 <a href="http://shop.oreilly.com/product/0636920025054.do?sortby=bestSellers" target="_blank"><img src="/images/AgileDataScience.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Agile Data Science - Building Data Analytics Applications with Hadoop](id:ads)
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"><i class="icon-star-empty"></i></i><i class="icon-star-empty"></i>
-#####Big Data Area
+
 * Level Mid.   
 * Level Adv. 
 
@@ -173,7 +174,7 @@ ___
 <a href="http://shop.oreilly.com/product/0636920028529.do" target="_blank"><img src="/images/doingdatascience.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Doing Data Science - Start Talking From Frontline](id:dds)
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"><i class="icon-star"></i></i><i class="icon-star-empty"></i>
-#####Big Data Area
+
 * Level Ent.   
 * Level Mid.   
 * Level Adv. 
@@ -237,6 +238,16 @@ ___
 
 The book is my 1st ook read about scala. It introduces the basic concet of scala as well as advanced topics. The last few chapters are little hard to read, but overall it is a great scala book having latest of scala features covered.
 ___
+<a href="http://shop.oreilly.com/product/0636920026914.do" target="_blank"><img src="http://akamaicovers.oreilly.com/images/0636920026914/lrg.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###[Scala Cookbook](id:sc)
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i>
+
+* Level Ent. 
+* Level Mid.  
+* Level Adv.  
+
+The book is my 2nd book read about scala. This book is full of examples. It is more easier to learn thaning reading long chapters. I start reading it right now.
+___
 <a href="http://scalapuzzlers.com/" target="_blank"><img src="http://www.artima.com/images/puzzlersCover185x240.gif" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Scala Puzzlers](id:sp)
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i>
@@ -245,7 +256,7 @@ ___
 * Level Mid.  
 * Level Adv.  
 
-The book is my 2nd book read about scala. It is a free book in github and it is a fun book about scala. I start reading it right now.
+The book is my 3rd book read about scala. It is a free book in github and it is a fun book about scala. I start reading it right now.
 ___
 <a href="http://www.apress.com/9781430232070" target="_blank"><img src="/images/pro_oracle_sql.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Oracle PL/SQL Receipts](id:opr)
