@@ -17,7 +17,6 @@ layout: page
 * [HBase: The Definitive Guide](#htdg)
 * [Big Data: A Revolution That Will Transform How We Live, Work, and Think](#bda)
 * [Instant Apache Hive Essentials How-to](#iaheh)
-* [Fast Data Processing with Spark](#fdpws)
 * [Agile Data Science - Build Data Analytics With Hadoop](#ads)
 * [Doing Data Science - Straight Talk from the Frontline](#dds)
 * [Learning Spark - Lightning-Fast Big Data Analysis](#ls)
@@ -27,6 +26,7 @@ layout: page
 * [Git: Version Control for Everyone](#gvcfe)
 * [Maven 3 In Action](#m3ia)
 * [The Linux Command Line](#tlcl)
+* [Learning Scala Practical Functional Programming for the JVM](#lspf)
 
 ####[Part 3. DBDW Area](#da)
 * [Oracle PL/SQL Receipts](#opr)
@@ -159,15 +159,6 @@ ___
 
 The book creates fast way to query data using hive in few hours. This is great than searching the apache confluence to see the breaked help documents especially for new hive users. The book has few pages to read and easier to understand. The author also gives level of complex for each chapters so that different level of users could quickly pick up what he/she needs.
 ___
-<a href="http://www.packtpub.com/fast-data-processing-with-spark/book" target="_blank"><img src="/images/FastDataProcessingwithSpark.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
-###[Fast Data Processing with Spark](id:fdpws)
-###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i><i class="icon-star-empty"></i>
-#####Big Data Area
-* Level Ent. 
-* Level Mid.   
-
-The book introduces the new faster massive data processing data framework Spark. This is great supporting hadoop, hdfs, hbase and more effecient than MapReduce. Prepare to read it.
-___
 <a href="http://shop.oreilly.com/product/0636920025054.do?sortby=bestSellers" target="_blank"><img src="/images/AgileDataScience.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Agile Data Science - Building Data Analytics Applications with Hadoop](id:ads)
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"><i class="icon-star-empty"></i></i><i class="icon-star-empty"></i>
@@ -192,7 +183,7 @@ ___
 <a href="http://shop.oreilly.com/product/0636920028512.do" target="_blank"><img src="/images/learningspark.png" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Learning Spark - Lightning-Fast Big Data Analysis](id:ls)
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"><i class="icon-star"></i></i><i class="icon-star-empty"></i>
-#####Big Data Area
+
 * Level Ent.   
 * Level Mid.   
 * Level Adv. 
@@ -235,6 +226,15 @@ ___
 * Level Mid.   
 
 This is a good begining guide for fresh people in linux programming. It is also a good quick review book. I never learn linux form books but from using experence and system manuals. This is a a free book which is recommanded to read to learn Linux in systematic way.
+___
+<a href="http://shop.oreilly.com/product/0636920030287.do?sortby=publicationDate" target="_blank"><img src="http://akamaicovers.oreilly.com/images/0636920030287/lrg.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###[Learning Scala Practical Functional Programming for the JVM](id:lspf)
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i><i class="icon-star-empty"></i>
+
+* Level Ent. 
+* Level Mid.   
+
+The book is my 1st ook read about scala. It introduces the basic concet of scala as well as advanced topics. The last few chapters are little hard to read, but overall it is a great scala book having latest of scala features covered.
 ___
 <a href="http://www.apress.com/9781430232070" target="_blank"><img src="/images/pro_oracle_sql.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Oracle PL/SQL Receipts](id:opr)
