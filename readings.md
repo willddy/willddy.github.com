@@ -27,6 +27,7 @@ layout: page
 * [Maven 3 In Action](#m3ia)
 * [The Linux Command Line](#tlcl)
 * [Learning Scala Practical Functional Programming for the JVM](#lspf)
+* [Scala Puzzlers](#sp)
 
 ####[Part 3. DBDW Area](#da)
 * [Oracle PL/SQL Receipts](#opr)
@@ -235,6 +236,16 @@ ___
 * Level Mid.   
 
 The book is my 1st ook read about scala. It introduces the basic concet of scala as well as advanced topics. The last few chapters are little hard to read, but overall it is a great scala book having latest of scala features covered.
+___
+<a href="http://scalapuzzlers.com/" target="_blank"><img src="http://www.artima.com/images/puzzlersCover185x240.gif" width="150" height="200" alt="avatar" align ="right"  /></a>
+###[Scala Puzzlers](id:sp)
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i>
+
+* Level Ent. 
+* Level Mid.  
+* Level Adv.  
+
+The book is my 2nd book read about scala. It is a free book in github and it is a fun book about scala. I start reading it right now.
 ___
 <a href="http://www.apress.com/9781430232070" target="_blank"><img src="/images/pro_oracle_sql.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Oracle PL/SQL Receipts](id:opr)
