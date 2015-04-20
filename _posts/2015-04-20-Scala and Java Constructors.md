@@ -85,7 +85,7 @@ class Foo(val bar:Bar){
 #### 5. Methods of "getter" and "setter"
 **Java Code**  
 
-```
+```java
 public class Foo() {  
    private Bar bar;  
    public Foo(Bar bar) {  
@@ -102,7 +102,7 @@ public class Foo() {
 
 **1. Scala Code**
 
-```
+```scala
 import scala.reflect._  
 class Foo(@BeanProperty var bar:Bar)  
 ```
