@@ -6,7 +6,7 @@ layout: page
 * [Data Mining Blog from Larry](http://blog.csdn.net/larrylgq)
 * [Data Mining Algorithm](http://blog.sina.com.cn/s/articlelist_1691398204_16_1.html)
 * [Machine Learning Blog](http://www.cnblogs.com/LeftNotEasy/)
-* [Mahout Blog](http://blog.csdn.net/bornhe/article/details/7425471)
+* [History of Data Mining](http://rayli.net/blog/data/history-of-data-mining/)
 
 ###Visualization
 * [Tableau Best Practice of Visual Design Guide](http://www.tableausoftware.com/learn/whitepapers/tableau-visual-guidebook)
@@ -71,7 +71,6 @@ layout: page
 * [Mesos - big data runtime container](http://incubator.apache.org/mesos/) 
 * [Linux automation tool](http://expect.sourceforge.net/)
 * [Apache Bigtop project](https://cwiki.apache.org/confluence/display/BIGTOP/Index%3bjsessionid=82787B10BA0CED33574E7A6F853A7B0C)
-* [YARN Overview](http://developer.yahoo.com/blogs/hadoop/posts/2011/02/mapreduce-nextgen/)
 * [Wukong - ruby API for Big Data](http://rdoc.info/gems/wukong/frames) 
 * [Facebook Corona@github](https://github.com/facebook/hadoop-20/tree/master/src/contrib/corona)
 * [Twitter's hadoop, hive, pig lib@github](https://github.com/kevinweil/elephant-bird)
@@ -99,8 +98,7 @@ layout: page
 * [Hama - BSP framework](http://hama.apache.org/index.html)
 * [PDSH - a distributed shell](http://sourceforge.net/projects/pdsh/)
 * [phpHiveAdmin - tool like hue@github](https://github.com/xianglei/phpHiveAdmin)
-* [Easyhadoop - install scripts 1](https://github.com/easyhadoop/easyhadoop/blob/master/EasyHadoop_v1.0.sh)
-* [Easyhadoop - install scripts 2](http://www.fuzhijie.me/?p=306)
+* [Easyhadoop - install scripts](https://github.com/xianglei/easyhadoop)
 * [More shared links](https://www.evernote.com/shard/s36/sh/0c3b1941-0255-42ff-bff2-4b11308c104d/4ffa624d965f0bae8b1ab2f96e9d1c53)
 * [Yahoo! Cloud System Benchmark](https://github.com/brianfrankcooper/YCSB)
 
