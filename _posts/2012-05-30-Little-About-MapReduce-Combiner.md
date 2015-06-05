@@ -11,7 +11,7 @@ lang: en
 ---
 Combiner is used to reduce the number of split shuffling to reducer. It will improve the overall performance obviously. There are following two points to be attention of using it.
 
-* __You map and reduce can work well without combiner__
+* __Your map and reduce can work well without combiner__
 Combiner is only for performance improvement, so it does not impact the transformation logic which are coded in mapper and reducer.
 
 * __Combiner does not have to be same to the reducer__
