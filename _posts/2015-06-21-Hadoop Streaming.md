@@ -17,8 +17,8 @@ Few good use-cases:
 
 * Text processing - scripting languages do well in text analysis
 * Utilities and/or expertise in languages other than Java
-</br>
-</br>
+
+
 #### 2. Process Flow
 
 Below is how streaming processing
@@ -31,9 +31,8 @@ Below is how streaming processing
   * Input is sorted by key
 * Reduce writes output to standard output
    
-<img src="/images/hadoopstreaming.png" alt="avatar" align ="left" /> 
-</br>
-</br>
+<img src="/images/hadoopstreaming.png" alt="avatar" align ="left" /> <br/>
+
 #### 3. Example of mapper
 
 **mapper.py**  
@@ -56,8 +55,7 @@ words = line.split()
 for word in words
 print '%s\t%s' % (word, 1) 
 ```
-</br>
-</br>
+
 #### 4. Example of reducer
 
 **reducer.py**  
@@ -100,8 +98,7 @@ for line in sys.stdin:
 if current_word == word:
     print '%s\t%s' % (current_word, current_count)  
 ```
-</br>
-</br>
+
 #### 5. Run the job
 
 * Test in local mode from Linux pipe
