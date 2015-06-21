@@ -3,7 +3,7 @@ title: Hadoop Streaming
 layout: post
 guid: urn:uuid:04aadc1c-8153-42ec-8c45-201506211422
 tags:
-  - scala
+  - hadoop
 ---
 
 #### 1. Streaming Overview
@@ -18,6 +18,7 @@ Few good use-cases:
 
    * Text processing - scripting languages do well in text analysis
    * Utilities and/or expertise in languages other than Java
+
 
 
 #### 2. Process Flow
@@ -36,6 +37,7 @@ Below is how streaming processing
    
 <img src="/images/hadoopstreaming.png" alt="avatar" align ="left" /> 
 </br>
+
 
 #### 3. Example of mapper
 
@@ -59,6 +61,7 @@ words = line.split()
 for word in words
 print '%s\t%s' % (word, 1) 
 ```
+
 
 #### 4. Example of reducer
 
@@ -102,6 +105,7 @@ for line in sys.stdin:
 if current_word == word:
     print '%s\t%s' % (current_word, current_count)  
 ```
+
 
 
 #### 5. Run the job
