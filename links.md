@@ -2,6 +2,9 @@
 title: Links
 layout: page
 ---
+###Tools
+* [Great GIT CMD reference](http://rogerdudler.github.io/git-guide/)
+
 ###Data Mining
 * [Data Mining Blog from Larry](http://blog.csdn.net/larrylgq)
 * [Data Mining Algorithm](http://blog.sina.com.cn/s/articlelist_1691398204_16_1.html)
