@@ -5,40 +5,35 @@ guid: urn:uuid:04aadc1c-8153-42ec-8c45-201506211422
 tags:
   - hadoop
 ---
-
 #### 1. Streaming Overview
 
 Hadoop Streaming is a generic API which allows writing Mappers and Reduces in any language. 
 
-   * Develop MapReduce jobs in practically any language
-   * Uses Unix Streams as communication mechanism between Hadoop and your code
-   * Any language that can read standard input and write are supported
+* Develop MapReduce jobs in practically any language
+* Uses Unix Streams as communication mechanism between Hadoop and your code
+* Any language that can read standard input and write are supported
 
 Few good use-cases:
 
-   * Text processing - scripting languages do well in text analysis
-   * Utilities and/or expertise in languages other than Java
-
-
-
+* Text processing - scripting languages do well in text analysis
+* Utilities and/or expertise in languages other than Java
+</br>
+</br>
 #### 2. Process Flow
 
 Below is how streaming processing
 
-   * Map input passed over standard input
-   * Map processes input line-by-line
-   * Map writes output to standard output - Key-value separate by tab
-   * Reduce input passed over standard input
-
-      * Same as mapper output – key-value pairs separated by tab
-      * Input is sorted by key
-
-   * Reduce writes output to standard output
+* Map input passed over standard input
+* Map processes input line-by-line
+* Map writes output to standard output - Key-value separate by tab
+* Reduce input passed over standard input
+  * Same as mapper output – key-value pairs separated by tab
+  * Input is sorted by key
+* Reduce writes output to standard output
    
 <img src="/images/hadoopstreaming.png" alt="avatar" align ="left" /> 
 </br>
-
-
+</br>
 #### 3. Example of mapper
 
 **mapper.py**  
@@ -61,8 +56,8 @@ words = line.split()
 for word in words
 print '%s\t%s' % (word, 1) 
 ```
-
-
+</br>
+</br>
 #### 4. Example of reducer
 
 **reducer.py**  
@@ -105,12 +100,11 @@ for line in sys.stdin:
 if current_word == word:
     print '%s\t%s' % (current_word, current_count)  
 ```
-
-
-
+</br>
+</br>
 #### 5. Run the job
 
-   * Test in local mode from Linux pipe
+* Test in local mode from Linux pipe
    
 ```
 $ cat testText.txt | mapper.py | sort | reducer.py
@@ -122,9 +116,7 @@ t 5
 v 1
 ```
 
-
-
-   * Run in the cluster
+* Run in the cluster
 
 ```
 hadoop/yarn jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
