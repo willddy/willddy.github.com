@@ -27,6 +27,7 @@ layout: page
 * [Maven 3 In Action](#m3ia)
 * [The Linux Command Line](#tlcl)
 * [Learning Scala Practical Functional Programming for the JVM](#lspf)
+* [Begining Scala 2nd ed](#bs)
 * [Scala Cookbook](#sc)
 * [Scala Puzzlers](#sp)
 
@@ -229,6 +230,15 @@ ___
 
 This is a good begining guide for fresh people in linux programming. It is also a good quick review book. I never learn linux form books but from using experence and system manuals. This is a a free book which is recommanded to read to learn Linux in systematic way.
 ___
+<a href="https://onlybooks.org/beginning-scala-2nd-edition-32119" target="_blank"><img src="/images/beginscala.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
+###[Begining Scala 2nd ed](id:bs)
+###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i><i class="icon-star-empty"></i>
+
+* Level Ent. 
+* Level Mid.   
+
+This book has very quick style of explaining scala with many detail examples. Even some examples has code defect and typo, it is easy to find out. The last part about scala best practice is really a valueable chapter. The other part is ok and cover everthing well enough but not deep enough.
+___
 <a href="http://shop.oreilly.com/product/0636920030287.do?sortby=publicationDate" target="_blank"><img src="http://akamaicovers.oreilly.com/images/0636920030287/lrg.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Learning Scala Practical Functional Programming for the JVM](id:lspf)
 ###<i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star-half-empty"></i><i class="icon-star-empty"></i>
@@ -236,7 +246,7 @@ ___
 * Level Ent. 
 * Level Mid.   
 
-The book is my 1st ook read about scala. It introduces the basic concet of scala as well as advanced topics. The last few chapters are little hard to read, but overall it is a great scala book having latest of scala features covered.
+The book is my 1st book read about scala. It introduces the basic concet of scala as well as advanced topics. The last few chapters are little hard to read, but overall it is a great scala book having latest of scala features covered.
 ___
 <a href="http://shop.oreilly.com/product/0636920026914.do" target="_blank"><img src="http://akamaicovers.oreilly.com/images/0636920026914/lrg.jpg" width="150" height="200" alt="avatar" align ="right"  /></a>
 ###[Scala Cookbook](id:sc)
